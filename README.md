@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ukaszmack
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning dajango
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
